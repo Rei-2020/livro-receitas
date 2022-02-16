@@ -7,7 +7,7 @@ Olá! Bem vindos ao livro de receitas.
 - Arroz a Grega
 
 - Tapioca
-- Abobora ao Cury
+- Abobora ao Curry
 
   
 
